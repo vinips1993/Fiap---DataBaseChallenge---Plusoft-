@@ -1,2 +1,2 @@
-# Fiap---DataBaseChallenge---Plusoft-
-Repositório gerado para armazenamento do Projeto MedConnect,  
+# Fiap---DataBaseChallenge---Plusoft.
+Repositório gerado para armazenamento do Proj DataBase MedConnect.
